@@ -1,4 +1,4 @@
-# 🕹 **HelpHome** 🕹
+#  **HelpHome** 
 
 **HelpHome es una pagina donde encontraremos todo tipo de servicios utiles para el hogar y para el dia a dia de las personas**
 
